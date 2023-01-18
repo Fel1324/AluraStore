@@ -35,7 +35,7 @@ A Alura Store é uma loja online que possui vários Apps e Games em seu catálog
 
 ## Acesso ao projeto
 
-Clique [aqui]() para acessar o projeto.
+Clique [aqui](https://fel1324.github.io/AluraStore/) para acessar o projeto.
 
 <br>
 
